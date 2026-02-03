@@ -1,0 +1,16 @@
+PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Fare,Embarked
+1,0,3,Braund Mr Owen,male,22,1,0,7.25,S
+2,1,1,Cumings Mrs John,female,38,1,0,71.28,C
+3,1,3,Heikkinen Miss,female,26,0,0,7.92,S
+4,1,1,Allen Mr,male,35,1,0,53.10,S
+5,0,3,Moran Mr,male,,0,0,8.05,S
+6,0,3,McCarthy Mr,male,54,0,0,51.86,S
+7,0,1,Palsson Master,male,2,3,1,21.07,S
+8,1,3,Johnson Mrs,female,27,0,2,11.13,S
+9,1,2,Nasser Mr,male,,0,0,30.07,C
+10,1,2,Backstrom Miss,female,4,1,1,27.75,S
+11,0,3,Andersson Mr,male,39,1,5,31.27,S
+12,1,1,Futrelle Mrs,female,58,0,0,26.55,S
+13,0,3,Saundercock Mr,male,20,0,0,8.05,S
+14,0,3,Dean Mr,male,,1,0,15.50,S
+15,1,2,Richard Mrs,female,14,0,0,30.00,C
